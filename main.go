@@ -7,8 +7,9 @@ import (
 	"os"
 	"os/exec"
 	"path"
-	"untemis/bitbucket"
-	"untemis/config"
+
+	"github.com/xarantolus/untemis/bitbucket"
+	"github.com/xarantolus/untemis/config"
 
 	"github.com/daeMOn63/bitclient"
 )

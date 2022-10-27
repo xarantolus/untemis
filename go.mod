@@ -1,4 +1,4 @@
-module untemis
+module github.com/xarantolus/untemis
 
 go 1.19
 
